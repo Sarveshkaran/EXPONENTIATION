@@ -20,6 +20,7 @@ print("Exponentiation of a given number:" , pow(a,b))
 
 ## Output:
 ![exponentiation of a number](expo.png)
+![output](sar6.png)
 
 
 ## Result:
